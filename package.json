@@ -2,6 +2,7 @@
   "name": "sky-tidings",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yourusername.github.io/SkyTidings",
   "dependencies": {
     "@material-ui/core": "^4.0.1",
     "@material-ui/icons": "^4.0.1",
@@ -33,9 +34,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "devDependencies": {
-      "gh-pages": "^2.0.1"
-    }
+    ]
   }
 }
