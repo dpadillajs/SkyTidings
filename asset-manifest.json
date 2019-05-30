@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SkyTidings/static/css/main.51ec8560.chunk.css",
+    "main.js": "/SkyTidings/static/js/main.615fc2d5.chunk.js",
+    "main.js.map": "/SkyTidings/static/js/main.615fc2d5.chunk.js.map",
+    "runtime~main.js": "/SkyTidings/static/js/runtime~main.a9034635.js",
+    "runtime~main.js.map": "/SkyTidings/static/js/runtime~main.a9034635.js.map",
+    "static/js/2.978ea561.chunk.js": "/SkyTidings/static/js/2.978ea561.chunk.js",
+    "static/js/2.978ea561.chunk.js.map": "/SkyTidings/static/js/2.978ea561.chunk.js.map",
+    "index.html": "/SkyTidings/index.html",
+    "precache-manifest.d3c12d9d61610ca40c60e20204fde246.js": "/SkyTidings/precache-manifest.d3c12d9d61610ca40c60e20204fde246.js",
+    "service-worker.js": "/SkyTidings/service-worker.js",
+    "static/css/main.51ec8560.chunk.css.map": "/SkyTidings/static/css/main.51ec8560.chunk.css.map"
+  }
+}
